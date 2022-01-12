@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "execa": "^6.0.0",
+    "image-size": "^1.0.0",
+    "inquirer": "^8.2.0",
+    "node-powershell": "^5.0.1"
+  }
+}
